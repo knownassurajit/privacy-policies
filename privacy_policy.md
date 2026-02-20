@@ -1,6 +1,5 @@
-# Privacy Policy for Imposter
+# Privacy Policy for IMPSTR
 
-**Effective Date:** February 21, 2026  
 **Developer:** Surajit Das  
 **App Name:** Imposter – Social Deduction Game  
 **Package ID:** com.game.impstr
